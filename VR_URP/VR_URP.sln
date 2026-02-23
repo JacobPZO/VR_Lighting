@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{F79887BB-A8ED-001B-0328-AD8A6842251C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{82A56C5F-4CD5-341A-8E1F-978331A0333E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{19351B46-6B17-BB2E-A831-AE92B8050A65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{F0EB724F-DF20-9450-704E-91CD41338F47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +19,18 @@ Global
 		{F79887BB-A8ED-001B-0328-AD8A6842251C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F79887BB-A8ED-001B-0328-AD8A6842251C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F79887BB-A8ED-001B-0328-AD8A6842251C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A56C5F-4CD5-341A-8E1F-978331A0333E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A56C5F-4CD5-341A-8E1F-978331A0333E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A56C5F-4CD5-341A-8E1F-978331A0333E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A56C5F-4CD5-341A-8E1F-978331A0333E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19351B46-6B17-BB2E-A831-AE92B8050A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19351B46-6B17-BB2E-A831-AE92B8050A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19351B46-6B17-BB2E-A831-AE92B8050A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19351B46-6B17-BB2E-A831-AE92B8050A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EB724F-DF20-9450-704E-91CD41338F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EB724F-DF20-9450-704E-91CD41338F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EB724F-DF20-9450-704E-91CD41338F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EB724F-DF20-9450-704E-91CD41338F47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
