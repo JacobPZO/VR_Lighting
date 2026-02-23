@@ -1168,13 +1168,13 @@
       <Project>{F79887BB-A8ED-001B-0328-AD8A6842251C}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
-      <Project>{F0EB724F-DF20-9450-704E-91CD41338F47}</Project>
-      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj">
       <Project>{82A56C5F-4CD5-341A-8E1F-978331A0333E}</Project>
       <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj">
+      <Project>{F0EB724F-DF20-9450-704E-91CD41338F47}</Project>
+      <Name>Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
